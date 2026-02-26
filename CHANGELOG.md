@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Madhu788/semantic-release-workshop/compare/v1.0.1...v1.1.0) (2026-02-26)
+
+
+### Features
+
+* draft mode added ([5cb2cb4](https://github.com/Madhu788/semantic-release-workshop/commit/5cb2cb43c65aca5a443dc966fb8285b17cb5610a))
+
 ## [1.0.1](https://github.com/Madhu788/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
 
 
