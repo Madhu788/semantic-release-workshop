@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Madhu788/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* added another route for test ([06b24f5](https://github.com/Madhu788/semantic-release-workshop/commit/06b24f5189143122cdd6fe460d6f5e9dbdae767a))
+
 # 1.0.0 (2026-02-26)
 
 
